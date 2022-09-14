@@ -1,11 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "../../untitled folder/python_koans"
-		},
-		{
 			"path": ".."
 		}
-	],
-	"settings": {}
+	]
 }
